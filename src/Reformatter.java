@@ -13,10 +13,6 @@ import java.util.Scanner;
       - A
       - B
       - C
-    USAGE:
-     - Copy the contents of your list into RawList.txt OR import your file into the project src
-     - After loading the script in a terminal or command window, enter the content root path of the file you wish to reformat into the scanner and press enter
-     - Your reformatted file will be updated under ReformattedList.txt, your original file will not be altered in any way
  */
 
 public class Reformatter {
