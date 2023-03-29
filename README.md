@@ -21,7 +21,7 @@ There will also be an extra two spaces added before each hyphen in addition to t
   
 # USAGE:
 - Clone this project or copy the contents of Reformatter.java into your own project
-- Locate directory in cmd or terminal, compile with "javac Reformatter.java" then run using "java Reformatter"
+- Locate the project directory in cmd or terminal, compile with "javac Reformatter.java" then run using "java Reformatter"
 - After compiling the script in a terminal or command window, enter the content root path of the file 
-  you wish to reformat into the scanner and press enter
+  you wish to reformat when prompted
 - Your reformatted file will be updated as ReformattedList.txt, your original file will not be altered in any way
